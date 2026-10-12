@@ -47,4 +47,4 @@ In general refer to our [contributing guidelines](https://github.com/jellyfin/.g
 
 ## Licence
 
-This plugins code and packages are distributed under the MIT License. See [LICENSE](./LICENSE.md) for more information.
+This plugins code and packages are distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
